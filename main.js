@@ -23,20 +23,20 @@ let curr_track = document.createElement('audio');
 let track_list = [{
         name: "Don",
         artist: "Sivakarthikeyan",
-        image: "assets/don.jpg",
-        path: "assets/Jalabulajangu-MassTamilan.fm.mp3",
+        image: "https://cdn.jsdelivr.net/gh/ashok-kannan-dev/Music-Player/assets/don.jpg",
+        path: "ahttps://cdn.jsdelivr.net/gh/ashok-kannan-dev/Music-Player/assets/Jalabulajangu-MassTamilan.fm.mp3",
     },
     {
         name: "Aaytha Ezhuthu",
         artist: "A.R Rahman",
-        image: "assets/Aaytha-Ezhuthu.jpg",
-        path: "assets/Yakkai-Thiri.mp3"
+        image: "https://cdn.jsdelivr.net/gh/ashok-kannan-dev/Music-Player/assets/Aaytha-Ezhuthu.jpg",
+        path: "https://cdn.jsdelivr.net/gh/ashok-kannan-dev/Music-Player/assets/Yakkai-Thiri.mp3"
     },
     {
         name: "Enemy",
         artist: "S.Thaman",
-        image: "assets/enemy.jpg",
-        path: "assets/Tum-Tum-MassTamilan.fm.mp3",
+        image: "https://cdn.jsdelivr.net/gh/ashok-kannan-dev/Music-Player/assets/enemy.jpg",
+        path: "https://cdn.jsdelivr.net/gh/ashok-kannan-dev/Music-Player/assets/Tum-Tum-MassTamilan.fm.mp3",
     },
 ];
 
