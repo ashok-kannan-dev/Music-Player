@@ -24,7 +24,7 @@ let track_list = [{
         name: "Don",
         artist: "Sivakarthikeyan",
         image: "https://cdn.jsdelivr.net/gh/ashok-kannan-dev/Music-Player/assets/don.jpg",
-        path: "ahttps://cdn.jsdelivr.net/gh/ashok-kannan-dev/Music-Player/assets/Jalabulajangu-MassTamilan.fm.mp3",
+        path: "https://cdn.jsdelivr.net/gh/ashok-kannan-dev/Music-Player/assets/Jalabulajangu-MassTamilan.fm.mp3",
     },
     {
         name: "Aaytha Ezhuthu",
